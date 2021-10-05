@@ -1,0 +1,5 @@
+Target dependency graph (3 targets)
+Pods-Parstagram in Pods
+Pods-Parstagram-ParstagramUITests in Pods
+Pods-ParstagramTests in Pods, depends on:
+Pods-Parstagram in Pods (explicit)
